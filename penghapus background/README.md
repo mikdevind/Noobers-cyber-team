@@ -1,2 +1,3 @@
 penghapus background dengan php
-\n Creator by ILMAN HENDRAWAN SAPUTRA
+
+Creator by ILMAN HENDRAWAN SAPUTRA
