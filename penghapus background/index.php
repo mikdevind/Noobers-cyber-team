@@ -30,7 +30,7 @@ if (isset($_POST["eraser"])) {
                             ]
                         ],
                         'headers' => [
-                            'X-Api-Key' => 'PtphNMKzr8dfePFuVB2UdDWs'
+                            'X-Api-Key' => 'api key'
                         ]
                     ]);
                     $fp = fopen('output/'.$tanggal . '/'.$namafile.".png", "wb");
@@ -52,7 +52,7 @@ if (isset($_POST["eraser"])) {
                             ]
                         ],
                         'headers' => [
-                            'X-Api-Key' => 'PtphNMKzr8dfePFuVB2UdDWs'
+                            'X-Api-Key' => 'api key'
                         ]
                     ]);
                     $fp = fopen('output/'.$tanggal . '/'.$namafile.".png", "wb");
