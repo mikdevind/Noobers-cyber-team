@@ -11,6 +11,6 @@ Yang mengelola github ini adalah:
 
 Tools Telah dibuat adalah:
 
-- Machine Learning
-- Penghapus Background
-- Archive
+- [Machine Learning](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Machine%20Learning)
+- [Penghapus Background](https://github.com/mikdevind/Noobers-cyber-team/tree/main/penghapus%20background)
+- [Archive](https://github.com/mikdevind/Noobers-cyber-team/tree/main/zip)
