@@ -1,0 +1,22 @@
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<canvas width="100%" id="pengeluaran" ></canvas>
+
+<script>
+  var ctx = document.getElementById("pengeluaran").getContext("2d");
+  var data = {
+    labels: ["januari", "februari","Maret"],
+    datasets: [
+      {
+        label: "Pengeluaran",
+        fill: false,
+        lineTension: 0.1,
+        backgroundColor: "#ff0000",
+        borderColor: "#ff0000",
+        pointHoverBackgroundColor: "#ff0000",
+        pointHoverBorderColor: "#ff0000",
+        data: ["20000","10000","30000"]
+      }
+    ]
+  };
+</script>
