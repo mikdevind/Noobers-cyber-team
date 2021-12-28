@@ -1,4 +1,4 @@
-<center><img src="https://github.com/mikdevind/Noobers-cyber-team/blob/main/logo%20NCS.jpg?raw=true" title="logo NCS"/></center>
+<center><img src="https://github.com/mikdevind/Noobers-cyber-team/blob/main/logo%20NCS.png?raw=true" title="logo NCS"/></center>
 # Noobers-cyber-team
 
 Noobers cyber team adalah sebuah grub yang berisi para programer. grub ini di dirikan pada tanggal 21 Juli 2019. 
