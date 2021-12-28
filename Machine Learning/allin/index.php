@@ -1,65 +1,40 @@
-<?php
-function statistika($data, $menu)
-{
-	if ($menu == "median" || $menu == "modus")
-	{
-		sort($data);
-	}
-	$n = sizeof($data);
-	if ($menu == "mean")
-	{
-		return array_sum($data) / $n;	
-	}
-	else if ($menu == "modus")
-	{
-		$ram = array_count_values($data);
-		return array_search(max($ram), $ram);
-	}
-	else if ($menu == "median")
-	{
-		if ($n % 2 != 0)
-		{
-			return (double)$data[$n / 2];
-		}
-		else
-		{
-			$x1 = $data[($n / 2) -1];
-			$x2 = $data[$n /2 ];
-			return (double)($x1 + $x2) / 2;
-		}
-	}
-	else if ($menu == "std")
-	{
-		$ram = statistika($data, "mean");
-		$x1 = array();
-		$x2 = array();
-		for ($i=0; $i < $n; $i++)
-		{
-			array_push($x1, round(($data[$i] - $ram),2));
-			array_push($x2, round($x1[$i]*$x1[$i],3));
-		}
-		$hasil = sqrt(array_sum($x2) / $n);
-		return $hasil;
-	}
-	else if ($menu == "var")
-	{
-		$ram = statistika($data, "mean");
-		$x1 = array();
-		$x2 = array();
-		for ($i=0; $i<$n; $i++)
-		{
-			array_push($x1, ($data[$i] - $ram));
-			array_push($x2, ($x1[$i]*$x1[$i]));
-		}
-		$hasil = array_sum($x2) / $n;
-		return $hasil;
-	}
-}
 
-$data = array(32,111,138,28,59,77,97);
-echo "Mean   : ".statistika($data, "mean")."<br>";
-echo "Median : ".statistika($data, "median")."<br>";
-echo "Modus  : ".statistika($data, "modus")."<br>";
-echo "STD	 : ".statistika($data, "std")."<br>";
-echo "Varian : ".statistika($data, "var");
+<?php
+require("bin/core.php");
+
+$x = array(24,22,21,20,22,19,20,23,24,25,21,20,20,19,25,27,28,25,26,24,27,23,24,23,22,21,26,25,26,27);
+$y = array(10,5,6,3,6,4,5,9,11,13,7,4,6,3,12,13,16,12,14,12,16,9,13,11,7,5,12,11,13,14);
+$n = sizeof($y);
+
+$sin = new Core($x, $y, 50);
+$cos = new Phase1($x, $y);
+
+echo "<br>Rata - Rata X		 : ".$cos->mean($x);
+echo "<br>Rata - Rata Y		 : ".$cos->mean($y);
+
+echo "<br>Regresi Linear (C) : ".$sin->Regresi_Linear_C();
+echo "<br>Regresi Linear (R) : ".$sin->Regresi_Linear_R();
+echo "<br>Hasil Predisksi 	 : ".$sin->Prediksi();
+
 ?>
+
+<html>
+	<body>
+
+		<table>
+			<tr>
+				<td>NO</td>
+				<td>X</td>
+				<td>Y</td>>
+			</tr>
+		<?php for($i=0; $i<$n; $i++):?>
+		<tr>
+			<td><?php echo $i+1;?></td>
+			<td><?php echo $x[$i];?></td>
+			<td><?php echo $y[$i];?></td>
+			
+		</tr>
+		<?php endfor; ?>
+		</table>
+	</body>
+</html>
