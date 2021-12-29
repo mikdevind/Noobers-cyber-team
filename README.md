@@ -27,8 +27,8 @@ Cara Menggunakan Tools Di XAMPP:
 
 Join We In Whatapp:
 <br>
-![WhatsApp](https://chat.whatsapp.com/ETaAFqoBqZiCtpiD5GvGGs)
-<br>
+[WhatsApp](https://chat.whatsapp.com/ETaAFqoBqZiCtpiD5GvGGs)
+<br
 
 Contributors:
 <br>
