@@ -15,3 +15,12 @@ Tools Telah dibuat adalah:
 - [Penghapus Background](https://github.com/mikdevind/Noobers-cyber-team/tree/main/penghapus%20background)
 - [Archive](https://github.com/mikdevind/Noobers-cyber-team/tree/main/zip)
 - [Konversi Bilangan](https://github.com/mikdevind/Noobers-cyber-team/tree/main/konversi%20bilangan)
+
+Cara Menggunakan Tools Di XAMPP:
+- Extract File Menggunakan Winrar Atau Sejenisnya
+- Masuk Ke Directory "htdoct" Pada Folder Installasi XAMPP. Misal C:\xampp\htdoct
+- Buat Folder Baru.
+- Copy File Yang Telah Di Extract Ke Dalam Folder Yang Telah Di Buat Tadi
+- Buka Control Panel XAMPP Kemudian Klik Start Pada Bagian Apache dan MySQL
+- Buka Browser Kemudian Ketik "localhost\nama_folder_yang_telah_di_buat_tadi" Tanpa Tanda Kutip Pada Bagian URL
+- Done
