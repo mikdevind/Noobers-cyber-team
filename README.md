@@ -27,10 +27,12 @@ Cara Menggunakan Tools Di XAMPP:
 
 Contributors
 <br>
-<a href="https://github.com/mikdevind/Noobers-cyber-team/graphs/contributors">
+<center><a href="https://github.com/mikdevind/Noobers-cyber-team/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mikdevind/Noobers-cyber-team" />
-</a>
-</br>
+</a></center>
+<br>
+<br>
+<br>
 
 Made with [contrib.rocks](https://contrib.rocks).
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
