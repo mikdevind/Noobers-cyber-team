@@ -24,3 +24,10 @@ Cara Menggunakan Tools Di XAMPP:
 - Buka Control Panel XAMPP Kemudian Klik Start Pada Bagian Apache dan MySQL
 - Buka Browser Kemudian Ketik "localhost\nama_folder_yang_telah_di_buat_tadi" Tanpa Tanda Kutip Pada Bagian URL
 - Done
+
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
