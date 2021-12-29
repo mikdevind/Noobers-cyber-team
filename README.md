@@ -25,11 +25,15 @@ Cara Menggunakan Tools Di XAMPP:
 - Buka Browser Kemudian Ketik "localhost\nama_folder_yang_telah_di_buat_tadi" Tanpa Tanda Kutip Pada Bagian URL
 - Done
 
-Contributors
+Contributors:
 <br>
 <center><a href="https://github.com/mikdevind/Noobers-cyber-team/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mikdevind/Noobers-cyber-team" />
 </a></center>
+
+Bahasa Pemrograman Yang Digunakan:
+<br>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
 <br>
 <br>
 <br>
