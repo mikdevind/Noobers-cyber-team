@@ -1,0 +1,3 @@
+Konversi LTC, BTC, ZEC, DOGE, dll.
+
+Creator by ILMAN HENDRAWAN SAPUTRA
