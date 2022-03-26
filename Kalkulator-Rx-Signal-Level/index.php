@@ -21,7 +21,7 @@ if (isset($_POST["konversi"])) {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>MIKDevInd | <?php echo $judul_tools ?></title>
+  <title>MIKDevInd</title>
 </head>
 <body>
             <center>
