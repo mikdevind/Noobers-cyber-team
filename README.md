@@ -24,7 +24,7 @@ Tools Telah dibuat adalah:
 - [Konverter dBm](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Konverter-dBm)
 - [Mechine Learning Prediksi Data](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Mechine-Learning-Prediksi-Data)
 - [Kalkulator Sudut Tilt Antenna](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Sudut-Tilt-Antenna)
-- [Kalkulator Sudut Tilt Antenna](https://github.com/mikdevind/Noobers-cyber-team/tree/main/konverter%20crypto)
+- [Konverter Crypto](https://github.com/mikdevind/Noobers-cyber-team/tree/main/konverter%20crypto)
 
 Cara Menggunakan Tools Di XAMPP:
 - Extract File Menggunakan Winrar Atau Sejenisnya
