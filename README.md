@@ -15,6 +15,15 @@ Tools Telah dibuat adalah:
 - [Penghapus Background](https://github.com/mikdevind/Noobers-cyber-team/tree/main/penghapus%20background)
 - [Archive](https://github.com/mikdevind/Noobers-cyber-team/tree/main/zip)
 - [Konversi Bilangan](https://github.com/mikdevind/Noobers-cyber-team/tree/main/konversi%20bilangan)
+- [DNS Lookup](https://github.com/mikdevind/Noobers-cyber-team/tree/main/DNS%20Lookup)
+- [Kalkulator FSL](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Free-Space-Loss)
+- [Kalkulator EIRP](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Kalkulator-EIRP)
+- [Kalkulator ERP](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Kalkulator-ERP)
+- [Kalkulator FZC](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Kalkulator-Fresnel-Zone-Clearance)
+- [Kalkulator Rx Signal Level](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Kalkulator-Rx-Signal-Level)
+- [Konverter dBm](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Konverter-dBm)
+- [Mechine Learning Prediksi Data](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Mechine-Learning-Prediksi-Data)
+- [Kalkulator Sudut Tilt Antenna](https://github.com/mikdevind/Noobers-cyber-team/tree/main/Sudut-Tilt-Antenna)
 
 Cara Menggunakan Tools Di XAMPP:
 - Extract File Menggunakan Winrar Atau Sejenisnya
