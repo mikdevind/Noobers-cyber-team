@@ -1,0 +1,17 @@
+{
+	"sintensis":
+	[
+		{
+			"string": ["print","input","for","while"],
+			"respon": ["mencetak pada layar","inputan","perulangan","perulangan"]
+		},
+		{
+			"string": ["=","/","*","+","-"],
+			"respon": ["sama dengan","di bagi","di kali","di tambah","di kurangi"]
+		},
+		{
+			"string": ["str","int","float"],
+			"respon": ["jenis data string","jenis data integer","jenis data float"]
+		}
+	]
+}

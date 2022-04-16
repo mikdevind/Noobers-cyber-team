@@ -1,0 +1,13 @@
+{
+	"sintensis":
+	[
+		{
+			"string": ["print","input","for","while"],
+			"respon": ["mencetak pada layar","inputan","perulangan","perulangan"]
+		},
+		{
+			"string": ["=","/","*","+","-"],
+			"respon": ["sama dengan","di bagi","di kali","di tambah","di kurangi"]
+		}
+	]
+}
